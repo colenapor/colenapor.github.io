@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://colenapor.github.io/sitemap
+Sitemap: https://colenapor.github.io/app/sitemap
+Sitemap: https://colenapor.github.io/assets/sitemap
+Sitemap: https://colenapor.github.io/css/sitemap
+Sitemap: https://colenapor.github.io/includes/sitemap
+Sitemap: https://colenapor.github.io/item/sitemap
+Sitemap: https://colenapor.github.io/src/sitemap
